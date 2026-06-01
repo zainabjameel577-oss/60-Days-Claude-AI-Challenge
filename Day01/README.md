@@ -10,7 +10,7 @@ The repository is organized chronologically. Each day's folder serves as an inde
 ```text
 ├── Day01/               # Daily tracking folders
 │   ├── prompt.md        # The specific engineering prompts used
-│   ├── output_image.png # Visual assets/outputs (e.g., Ideogram generations, UI snapshots)
+│   ├── output_image.png # Visual assets/outputs 
 │   └── notes.md         # Key learnings, logic documentation, and reflections
 ├── Day02/
 └── README.md            # Directory homepage
