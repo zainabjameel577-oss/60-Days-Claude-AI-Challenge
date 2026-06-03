@@ -19,5 +19,7 @@ Section 1: Explanation Section 2: Weak vs Improved Prompt Example Section 3: Det
 Commit to the the theme, keep the details structures, and readable.
 ---
 
-# And...the output
+# And...the output:
+
+<img width="1080" height="1078" alt="day02 post lazy prompt" src="https://github.com/user-attachments/assets/45f59363-573a-4e8b-a21c-9bad47c68275" />
 
