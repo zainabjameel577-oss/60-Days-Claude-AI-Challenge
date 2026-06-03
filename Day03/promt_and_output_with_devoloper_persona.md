@@ -1,5 +1,7 @@
 # Prompting the same with Devolper Persona:
 
+The prompt:
+
 Act as a startup Founder. We have proprietary, defined company data. How can we strategically use this data to enhance our in-house LLM's performance by 50%? Focus on the business value, resource allocation, and competitive advantage
 
 ---
