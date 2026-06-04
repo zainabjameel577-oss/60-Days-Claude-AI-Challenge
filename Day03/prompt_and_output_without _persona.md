@@ -1,7 +1,10 @@
 # The Prompt without Persona mode:
 
 ---
+The prompt:
+
 How could I enhance my company's LLM model  by 50% using defined company data? 
+
 ---
 
 ## The Output: 
