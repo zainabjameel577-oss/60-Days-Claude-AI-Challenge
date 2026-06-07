@@ -1,6 +1,16 @@
+
 # Look at the clean output:
 
 
+<img width="720" height="1405" alt="WhatsApp Image 2026-06-07 at 3 56 13 PM (1)" src="https://github.com/user-attachments/assets/426bf82c-4434-4c35-957c-2a1e9907804e" />
+
+<img width="712" height="1388" alt="WhatsApp Image 2026-06-07 at 3 56 13 PM (2)" src="https://github.com/user-attachments/assets/c552afcc-825a-4298-b0e3-69435bc72647" />
+
+<img width="719" height="1338" alt="WhatsApp Image 2026-06-07 at 3 56 13 PM" src="https://github.com/user-attachments/assets/cc4c3561-e4dd-489e-9b49-901167f737e0" />
+
+<img width="720" height="1414" alt="WhatsApp Image 2026-06-07 at 3 56 14 PM (1)" src="https://github.com/user-attachments/assets/0a844ef3-1716-4677-bc1e-a699309ec546" />
+
+<img width="715" height="1417" alt="WhatsApp Image 2026-06-07 at 3 56 14 PM" src="https://github.com/user-attachments/assets/4475943b-6706-4a4d-87f9-5074571bd84f" />
 
 ---
 
