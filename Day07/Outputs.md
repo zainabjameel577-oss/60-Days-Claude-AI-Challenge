@@ -1,4 +1,16 @@
+
 # Look at the clean output:
+
+<img width="719" height="1338" alt="img1" src="https://github.com/user-attachments/assets/76e705e6-e127-4fde-9749-8912f7fdb9ad" />
+
+<img width="720" height="1405" alt="img2" src="https://github.com/user-attachments/assets/8ad926dd-6f69-4324-97df-6b9575ecfa99" />
+
+<img width="712" height="1388" alt="img3" src="https://github.com/user-attachments/assets/d482d7fa-8c04-4c87-9a8d-ecf3a091c812" />
+
+<img width="715" height="1417" alt="img 4" src="https://github.com/user-attachments/assets/42bc060f-d237-44a2-9be3-5b93281f1dbb" />
+
+<img width="720" height="1414" alt="img5" src="https://github.com/user-attachments/assets/4bffe232-37f1-4516-a333-8113c64b7cdb" />
+
 
 
 
